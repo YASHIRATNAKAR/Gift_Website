@@ -14,12 +14,11 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+            Welcome to Upahar, your go-to online store for finding thoughtful gifts for every occasion. 
+           From birthdays to anniversaries, and everything in between, we offer a wide range of curated gifts for men, women, children, and even flowers. 
+           With easy navigation and filters, you can quickly find the perfect gift. 
+           Our platform ensures a seamless shopping experience with secure login and simple checkout. 
+           At Upahar, we help you make every moment memorable!
           </p>
         </div>
       </div>
