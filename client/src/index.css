@@ -107,8 +107,8 @@
 /* =========contact us ========= */
 .contactus {
   margin: 0;
-  padding: 0;
-  height: 70vh;
+  padding: 10vh;
+  height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
